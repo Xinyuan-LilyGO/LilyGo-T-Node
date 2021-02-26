@@ -1,5 +1,5 @@
 
-<h1 align = "center">🌟LilyGo Mesh Kit🌟</h1>
+<h1 align = "center">🌟LilyGo T Node🌟</h1>
 
 <h2 align = "left">Quick Start:</h2>
 
